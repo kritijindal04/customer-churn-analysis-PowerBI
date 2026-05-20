@@ -5,30 +5,11 @@ Interactive 6-page Power BI dashboard analyzing customer churn for a telecom com
 
 **Overall Churn Rate: 26.86% (1,796 out of 6,687 customers)**
 
-## 🎯 Business Objective
-Reduce customer churn by identifying high-risk customer segments and uncovering behavioral, demographic, contractual, and geographic churn drivers.
-
-## 📸 Dashboard Screenshots
-
 ### Overview
 ![Overview](Assets/Overview.png)
 
-### Churn Rate and Reasons
-![Churn Rate and Reasons](Assets/ChurnRateandReasons.png)
-
-### Demographics
-![Demographics](Assets/Demographics.png)
-
-### Contract, Gender & Data Consumption
-![Contract, Gender & Data Consumption](Assets/Churnrate_by_ContractCategory,GenderandDataConsumption.png)
-
-### International Calls
-![International Calls](Assets/International_Calls.png)
-
-### Insights
-![Insights](Assets/Insights.png)
-
-
+## 🎯 Business Objective
+Reduce customer churn by identifying high-risk customer segments and uncovering behavioral, demographic, contractual, and geographic churn drivers.
 
 ## 🛠️ Tools & Techniques
 - **Power BI Desktop** — Multi-page dashboard, interactive visuals, map filters
@@ -57,6 +38,9 @@ Reduce customer churn by identifying high-risk customer segments and uncovering 
 - 72% of California churners are internationally active but have no international plan — being overcharged for calls and leaving
 - **Recommendation:** Proactively offer international plans to California customers making international calls
 
+### Churn Rate and Reasons
+![Churn Rate and Reasons](Assets/ChurnRateandReasons.png)
+
 ### 👥 Demographics
 - **Seniors churn at 38.46%** — highest demographic group
 - Under 30 customers churn at only **23%**
@@ -65,6 +49,9 @@ Reduce customer churn by identifying high-risk customer segments and uncovering 
 - Individual plan customers churn significantly more than group plan customers
 - **Recommendation:** Senior retention offers; incentivize group plan upgrades
 
+### Demographics
+![Demographics](Assets/Demographics.png)
+
 ### 📋 Contract Type
 - **Monthly contracts: 46.29% churn** — nearly 1 in 2 leave
 - **Yearly contracts: 6.62% churn** — highly loyal
@@ -72,6 +59,10 @@ Reduce customer churn by identifying high-risk customer segments and uncovering 
   - Monthly → Female: 47.31%, Male: 45.00%
   - Yearly → Female: 6.02%, Male: 7.21%
 - **Recommendation:** Offer discounts to monthly customers to switch to yearly
+
+### Contract, Gender & Data Consumption
+![Contract, Gender & Data Consumption](Assets/Churnrate_by_ContractCategory,GenderandDataConsumption.png)
+
 
 ### 📶 Data Usage & Unlimited Plan
 - Unlimited plan customers churn at **32.11%** vs **16.10%** without
@@ -88,6 +79,9 @@ Reduce customer churn by identifying high-risk customer segments and uncovering 
 - **Recommendation:**
   1. Proactively remove international plan from inactive users
   2. Offer international plan to active callers without one
+ 
+### International Calls
+![International Calls](Assets/International_Calls.png)
 
 ### 💳 Payment Method & Customer Service
 - **Paper Check: 38.01% churn** — 55.36% of all customers pay this way
@@ -99,11 +93,17 @@ Reduce customer churn by identifying high-risk customer segments and uncovering 
 - Average extra international charges: **$33.64**
 - **Recommendation:** Incentivize credit card or auto-pay enrollment; customers on automated payment churn significantly less
 
+### Insights
+![Insights](Assets/Insights.png)
+
 ### 📅 Account Length
 - Churn rate decreases as account length increases — longer tenure means more loyal customers
 - Monthly contract customers show high churn volatility regardless of tenure
 - Yearly contract customers stabilize quickly after first renewal
 - **Recommendation:** Focus retention on new customers in first 12 months, especially on monthly contracts
+
+### Insights
+![Insights](Assets/Insights.png)
 
 ---
 

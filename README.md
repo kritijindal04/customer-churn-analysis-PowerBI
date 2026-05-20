@@ -8,6 +8,28 @@ Interactive 6-page Power BI dashboard analyzing customer churn for a telecom com
 ## 🎯 Business Objective
 Reduce customer churn by identifying high-risk customer segments and uncovering behavioral, demographic, contractual, and geographic churn drivers.
 
+## 📸 Dashboard Screenshots
+
+### Overview
+![Overview](Assets/Overview.png)
+
+### Churn Rate and Reasons
+![Churn Rate and Reasons](Assets/ChurnRateandReasons.png)
+
+### Demographics
+![Demographics](Assets/Demographics.png)
+
+### Contract, Gender & Data Consumption
+![Contract, Gender & Data Consumption](Assets/Churnrate_by_ContractCategory,GenderandDataConsumption.png)
+
+### International Calls
+![International Calls](Assets/International_Calls.png)
+
+### Insights
+![Insights](Assets/Insights.png)
+
+
+
 ## 🛠️ Tools & Techniques
 - **Power BI Desktop** — Multi-page dashboard, interactive visuals, map filters
 - **Power Query** — Data cleaning, type corrections, duplicate validation
@@ -165,24 +187,6 @@ IF(
 | Intl plan, not active | 71.19% churn | Proactively remove unused plan |
 | Individual plan customers | High churn | Incentivize group plan upgrades |
 
-## 📸 Dashboard Screenshots
 
-### Overview
-![Overview](Assets/Overview.png)
-
-### Churn Rate and Reasons
-![Churn Rate and Reasons](Assets/ChurnRateandReasons.png)
-
-### Demographics
-![Demographics](Assets/Demographics.png)
-
-### Contract, Gender & Data Consumption
-![Contract, Gender & Data Consumption](Assets/Churnrate_by_ContractCategory,GenderandDataConsumption.png)
-
-### International Calls
-![International Calls](Assets/International_Calls.png)
-
-### Insights
-![Insights](Assets/Insights.png)
 
 
